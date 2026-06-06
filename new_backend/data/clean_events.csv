@@ -1,0 +1,21 @@
+event_id,event_name,event_type,organization,city,venue,start_date,end_date,target_units,registered_donors,blood_groups_needed,status,wallet_reward,description
+EVT0001,Blood Donation Camp 1,Camp,Red Cross,Bangalore,30 Event Street,2026-06-25,2026-08-07,158,62,"O Positive, AB Positive, O Negative",Completed,413.76,Join us for a noble cause at 30 Event Street
+EVT0002,Blood Donation Camp 2,Camp,Hospital,Bangalore,9 Event Street,2026-07-11,2026-06-23,168,114,"A Positive, B Positive, O Negative",Upcoming,436.07,Join us for a noble cause at 9 Event Street
+EVT0003,Blood Donation Camp 3,Workshop,Hospital,Mumbai,42 Event Street,2026-07-09,2026-06-15,150,54,"O Positive, A Negative, O Negative",Upcoming,272.58,Join us for a noble cause at 42 Event Street
+EVT0004,Blood Donation Camp 4,Awareness Drive,Hospital,Ahmedabad,78 Event Street,2026-06-22,2026-08-05,94,48,"A Positive, B Negative, B Positive",Upcoming,220.12,Join us for a noble cause at 78 Event Street
+EVT0005,Blood Donation Camp 5,Workshop,Red Cross,Kolkata,49 Event Street,2026-07-06,2026-08-09,151,123,"B Negative, AB Positive, B Positive, AB Negative, A Negative",Ongoing,357.04,Join us for a noble cause at 49 Event Street
+EVT0006,Blood Donation Camp 6,Workshop,Corporate CSR,Bangalore,53 Event Street,2026-07-28,2026-06-12,102,38,"B Positive, O Positive, AB Negative, A Negative",Ongoing,312.78,Join us for a noble cause at 53 Event Street
+EVT0007,Blood Donation Camp 7,Camp,Hospital,Ahmedabad,48 Event Street,2026-06-19,2026-06-10,105,131,"AB Negative, AB Positive, B Positive",Completed,241.95,Join us for a noble cause at 48 Event Street
+EVT0008,Blood Donation Camp 8,Collection Drive,Local NGO,Bangalore,39 Event Street,2026-06-08,2026-07-07,162,84,"AB Positive, A Negative, B Negative, AB Negative, A Positive",Upcoming,338.99,Join us for a noble cause at 39 Event Street
+EVT0009,Blood Donation Camp 9,Camp,Local NGO,Bangalore,54 Event Street,2026-08-03,2026-06-20,125,115,"B Negative, A Negative",Ongoing,466.11,Join us for a noble cause at 54 Event Street
+EVT0010,Blood Donation Camp 10,Camp,Hospital,Hyderabad,56 Event Street,2026-07-29,2026-08-08,60,142,"B Negative, A Positive",Upcoming,293.1,Join us for a noble cause at 56 Event Street
+EVT0011,Blood Donation Camp 11,Workshop,Red Cross,Delhi,65 Event Street,2026-06-16,2026-07-12,65,26,"B Negative, O Positive, A Negative",Ongoing,300.21,Join us for a noble cause at 65 Event Street
+EVT0012,Blood Donation Camp 12,Collection Drive,Hospital,Hyderabad,79 Event Street,2026-06-25,2026-07-25,63,51,"AB Negative, A Negative, B Positive, O Positive, B Negative",Upcoming,479.88,Join us for a noble cause at 79 Event Street
+EVT0013,Blood Donation Camp 13,Awareness Drive,Corporate CSR,Kolkata,49 Event Street,2026-06-16,2026-06-26,100,43,"B Positive, A Negative, O Negative, O Positive, AB Negative",Ongoing,203.63,Join us for a noble cause at 49 Event Street
+EVT0014,Blood Donation Camp 14,Workshop,Corporate CSR,Chennai,18 Event Street,2026-07-03,2026-06-27,159,85,"O Positive, AB Negative, O Negative",Upcoming,279.65,Join us for a noble cause at 18 Event Street
+EVT0015,Blood Donation Camp 15,Camp,Local NGO,Ahmedabad,62 Event Street,2026-08-04,2026-06-29,176,49,"AB Negative, AB Positive",Ongoing,385.04,Join us for a noble cause at 62 Event Street
+EVT0016,Blood Donation Camp 16,Collection Drive,Hospital,Hyderabad,48 Event Street,2026-07-17,2026-07-19,184,59,"A Negative, O Negative, O Positive, AB Negative",Ongoing,281.66,Join us for a noble cause at 48 Event Street
+EVT0017,Blood Donation Camp 17,Awareness Drive,Corporate CSR,Pune,66 Event Street,2026-06-10,2026-07-16,115,47,"A Negative, AB Positive, O Negative",Upcoming,339.3,Join us for a noble cause at 66 Event Street
+EVT0018,Blood Donation Camp 18,Camp,Hospital,Pune,20 Event Street,2026-07-24,2026-07-29,157,104,"O Negative, AB Negative, AB Positive, B Positive",Ongoing,484.55,Join us for a noble cause at 20 Event Street
+EVT0019,Blood Donation Camp 19,Camp,Hospital,Mumbai,85 Event Street,2026-07-04,2026-07-29,160,59,"AB Negative, O Positive, A Positive, B Negative, AB Positive",Ongoing,270.7,Join us for a noble cause at 85 Event Street
+EVT0020,Blood Donation Camp 20,Collection Drive,Local NGO,Pune,63 Event Street,2026-07-04,2026-07-08,123,82,"B Negative, O Negative, B Positive",Ongoing,378.03,Join us for a noble cause at 63 Event Street

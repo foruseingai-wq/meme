@@ -1,0 +1,31 @@
+emergency_id,patient_id,blood_group,urgency_level,units_required,hospital_name,hospital_city,contact_person,contact_phone,request_time,status,donors_notified,responses_received,blood_bank_contacted,whatsapp_sent,app_notification_sent,resolved_at,notes
+EMG0001,P0019,B Positive,Critical,3,Fortis Healthcare,Hyderabad,Contact 1,+918420824631,2026-06-04 20:25:05,Cancelled,37,9,True,True,True,,Emergency override activated
+EMG0002,P0108,A Positive,Critical,2,Manipal Hospital,Pune,Contact 2,+916111281996,2026-06-05 00:25:05,Active,9,4,True,True,True,,Emergency override activated
+EMG0003,P0137,O Negative,Critical,3,Manipal Hospital,Delhi,Contact 3,+917414579743,2026-06-04 22:25:05,Active,28,5,False,True,True,,Emergency override activated
+EMG0004,P0038,A Negative,Critical,2,City Hospital,Delhi,Contact 4,+917619872596,2026-06-06 00:25:05,Resolved,11,1,True,True,True,,Emergency override activated
+EMG0005,P0135,B Positive,Critical,3,Narayana Health,Delhi,Contact 5,+918271866404,2026-06-05 16:25:05,Cancelled,41,4,False,True,True,,Emergency override activated
+EMG0006,P0156,O Negative,Critical,1,Apollo Hospital,Hyderabad,Contact 6,+919229269576,2026-06-05 14:25:05,Active,27,10,False,True,True,,Emergency override activated
+EMG0007,P0123,A Positive,Critical,2,City Hospital,Bangalore,Contact 7,+918824211316,2026-06-06 06:25:05,Active,29,9,False,True,True,,Emergency override activated
+EMG0008,P0014,B Negative,Critical,3,Fortis Healthcare,Pune,Contact 8,+919035626025,2026-06-05 09:25:05,Active,33,5,False,True,True,,Emergency override activated
+EMG0009,P0129,B Positive,Critical,2,Manipal Hospital,Chennai,Contact 9,+917310770039,2026-06-04 22:25:05,Active,24,6,False,True,True,,Emergency override activated
+EMG0010,P0024,O Negative,Critical,1,Fortis Healthcare,Delhi,Contact 10,+916709155464,2026-06-05 02:25:05,Active,10,4,False,True,True,,Emergency override activated
+EMG0011,P0003,AB Positive,Critical,3,Apollo Hospital,Ahmedabad,Contact 11,+918138057075,2026-06-05 06:25:05,Cancelled,48,8,True,True,True,,Emergency override activated
+EMG0012,P0104,O Positive,Critical,3,Fortis Healthcare,Mumbai,Contact 12,+919067294154,2026-06-05 11:25:05,Cancelled,39,5,True,True,True,,Emergency override activated
+EMG0013,P0190,O Positive,Critical,3,Narayana Health,Bangalore,Contact 13,+918897050631,2026-06-05 05:25:05,Active,16,1,False,True,True,,Emergency override activated
+EMG0014,P0035,B Negative,Critical,1,Manipal Hospital,Ahmedabad,Contact 14,+917628199646,2026-06-06 04:25:05,Resolved,12,5,True,True,True,,Emergency override activated
+EMG0015,P0139,O Negative,Critical,2,Max Super Speciality,Ahmedabad,Contact 15,+917260766339,2026-06-05 22:25:05,Active,5,10,False,True,True,,Emergency override activated
+EMG0016,P0056,B Positive,Critical,3,City Hospital,Ahmedabad,Contact 16,+919833232131,2026-06-04 23:25:05,Resolved,8,5,True,True,True,,Emergency override activated
+EMG0017,P0158,AB Negative,Critical,2,Max Super Speciality,Hyderabad,Contact 17,+916460266142,2026-06-06 14:25:05,Resolved,16,6,False,True,True,,Emergency override activated
+EMG0018,P0003,O Negative,Critical,2,Narayana Health,Chennai,Contact 18,+916363971750,2026-06-05 05:25:05,Cancelled,14,6,True,True,True,,Emergency override activated
+EMG0019,P0125,O Positive,Critical,1,Max Super Speciality,Chennai,Contact 19,+918021635448,2026-06-05 13:25:05,Resolved,24,5,False,True,True,,Emergency override activated
+EMG0020,P0047,B Positive,Critical,1,Narayana Health,Ahmedabad,Contact 20,+916695073055,2026-06-06 06:25:05,Resolved,32,0,False,True,True,,Emergency override activated
+EMG0021,P0182,A Negative,Critical,1,Fortis Healthcare,Kolkata,Contact 21,+916172899535,2026-06-06 06:25:05,Resolved,31,5,True,True,True,,Emergency override activated
+EMG0022,P0042,A Negative,Critical,2,Max Super Speciality,Delhi,Contact 22,+917808590634,2026-06-05 07:25:05,Cancelled,36,10,True,True,True,,Emergency override activated
+EMG0023,P0084,AB Positive,Critical,3,Manipal Hospital,Bangalore,Contact 23,+916471298719,2026-06-06 08:25:05,Active,13,2,False,True,True,,Emergency override activated
+EMG0024,P0129,O Positive,Critical,3,Fortis Healthcare,Mumbai,Contact 24,+918913320633,2026-06-05 17:25:05,Resolved,43,0,False,True,True,,Emergency override activated
+EMG0025,P0123,B Positive,Critical,2,Narayana Health,Delhi,Contact 25,+919268040173,2026-06-05 11:25:05,Active,44,2,True,True,True,,Emergency override activated
+EMG0026,P0064,B Positive,Critical,1,Max Super Speciality,Chennai,Contact 26,+918861867476,2026-06-05 11:25:05,Active,35,1,True,True,True,,Emergency override activated
+EMG0027,P0049,A Positive,Critical,1,General Medical Center,Bangalore,Contact 27,+917723498065,2026-06-06 12:25:05,Resolved,17,2,False,True,True,,Emergency override activated
+EMG0028,P0005,A Negative,Critical,1,City Hospital,Pune,Contact 28,+917749328099,2026-06-05 05:25:05,Resolved,49,10,True,True,True,,Emergency override activated
+EMG0029,P0057,B Negative,Critical,2,Narayana Health,Mumbai,Contact 29,+918189847872,2026-06-05 11:25:05,Cancelled,8,4,True,True,True,,Emergency override activated
+EMG0030,P0069,B Negative,Critical,2,AIIMS,Pune,Contact 30,+917060722221,2026-06-05 18:25:05,Active,16,0,True,True,True,,Emergency override activated
